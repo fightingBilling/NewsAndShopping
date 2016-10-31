@@ -1,0 +1,2 @@
+include ':app', ':ViewPagerIndicator_library', ':PullToRefresh_library', ':xutils', ':BeijingNews', ':refreshlistview', ':SlidingMenu_library', ':极光推送demo', ':PhotoView_library', ':sample-okhttp', ':okhttputils', ':recyclerviewdemo', ':Image_Loader_library', ':MaterialRefreshLayout_library', ':addreducenumberview'
+include ':alipay_demo'

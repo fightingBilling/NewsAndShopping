@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\MyAllApp\\BeijngNews\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "E:\\android\\MyAllApp\\BeijngNews\\alipay_demo\\src\\main\\res\\layout\\pay_main.xml"
+    },
+    {
+        "merged": "E:\\android\\MyAllApp\\BeijngNews\\alipay_demo\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "E:\\android\\MyAllApp\\BeijngNews\\alipay_demo\\src\\main\\res\\layout\\pay_external.xml"
+    }
+]
